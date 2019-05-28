@@ -41,8 +41,8 @@ QString BitcoinUnits::name(int unit)
     switch(unit)
     {
     case BTC: return QString("ALK");
-    case mBTC: return QString("mQAC");
-    case uBTC: return QString("μQAC");
+    case mBTC: return QString("mALK");
+    case uBTC: return QString("μALK");
     default: return QString("???");
     }
 }
@@ -52,8 +52,8 @@ QString BitcoinUnits::description(int unit)
     switch(unit)
     {
     case BTC: return QString("ALK");
-    case mBTC: return QString("mQAC (1 / 1" THIN_SP_UTF8 "000)");
-    case uBTC: return QString("μQAC (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+    case mBTC: return QString("mALK (1 / 1" THIN_SP_UTF8 "000)");
+    case uBTC: return QString("μALK (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
     default: return QString("???");
     }
 }
