@@ -38,7 +38,7 @@
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>com.alkion.Alkion-Qt</string>
+  <string>com.superalki.Alkion-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,10 +46,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>com.alkion.AlkionPayment</string>
+      <string>com.superalki.AlkionPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>alkion</string>
+        <string>superalki</string>
       </array>
     </dict>
   </array>
@@ -58,7 +58,7 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>com.alkion.paymentrequest</string>
+      <string>com.superalki.paymentrequest</string>
       <key>UTTypeDescription</key>
       <string>Alkion payment request</string>
       <key>UTTypeConformsTo</key>
@@ -68,10 +68,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-alkion-payment-request</string>
+        <string>application/x-superalki-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>alkionpaymentrequest</string>
+          <string>superalkipaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>com.alkion.paymentrequest</string>
+        <string>com.superalki.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

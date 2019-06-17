@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Send coins to a Alkion address</source>
-        <translation>Пошаљите новац на alkion адресу</translation>
+        <translation>Пошаљите новац на superalki адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>

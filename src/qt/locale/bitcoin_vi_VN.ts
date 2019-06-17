@@ -258,7 +258,7 @@
         <translation>Thanh công cụ (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
         <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Alkion: URLs)</translation>
     </message>
     <message>
@@ -270,8 +270,8 @@
         <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Mở alkion:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Mở superalki:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

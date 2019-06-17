@@ -17,13 +17,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Alkion"
-            VALUE "FileDescription",    "alkion-cli (JSON-RPC client for " PACKAGE_NAME ")"
+            VALUE "FileDescription",    "superalki-cli (JSON-RPC client for " PACKAGE_NAME ")"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "alkion-cli"
+            VALUE "InternalName",       "superalki-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "alkion-cli.exe"
-            VALUE "ProductName",        "alkion-cli"
+            VALUE "OriginalFilename",   "superalki-cli.exe"
+            VALUE "ProductName",        "superalki-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

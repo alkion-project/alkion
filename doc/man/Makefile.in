@@ -659,11 +659,11 @@ uninstall-man: uninstall-man1
 .PRECIOUS: Makefile
 
 
-#  dist_man1_MANS+=alkiond.1
+#  dist_man1_MANS+=superalkid.1
 
-#  dist_man1_MANS+=alkion-qt.1
+#  dist_man1_MANS+=superalki-qt.1
 
-# dist_man1_MANS+=alkion-cli.1 alkion-tx.1
+# dist_man1_MANS+=superalki-cli.1 superalki-tx.1
 
 # Tell versions [3.59,3.63) of GNU make to not export all variables.
 # Otherwise a system limit (for SysV at least) may be exceeded.

@@ -49,7 +49,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "AlkionQT"
-#define QAPP_ORG_DOMAIN "alkionnu.com"
+#define QAPP_ORG_DOMAIN "superalkinu.com"
 #define QAPP_APP_NAME_DEFAULT "Alkion-Qt"
 #define QAPP_APP_NAME_TESTNET "Alkion-Qt-testnet"
 

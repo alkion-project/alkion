@@ -510,8 +510,8 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/alkion/alkion>";
-    const std::string URL_WEBSITE = "<http://www.alkion.org>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/superalki/superalki>";
+    const std::string URL_WEBSITE = "<http://www.superalki.org>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2017, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

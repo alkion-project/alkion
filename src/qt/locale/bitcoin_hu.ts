@@ -234,8 +234,8 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Fizetési kérelem (QR-kódot és "alkion:" URI azonosítót hoz létre)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Fizetési kérelem (QR-kódot és "superalki:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -246,8 +246,8 @@
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>"alkion:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>"superalki:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1533,7 +1533,7 @@
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nincs elég alkion od.</translation>
+        <translation>Nincs elég superalki od.</translation>
     </message>
     <message>
         <source>Loading block index...</source>

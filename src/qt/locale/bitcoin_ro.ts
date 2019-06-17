@@ -214,12 +214,12 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și alkion: URIs)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și superalki: URIs)</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Deschide un alkion: URI sau cerere de plată</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Deschide un superalki: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>%1 behind</source>

@@ -168,8 +168,8 @@
         <translation>Kinnita rahakoti krüpteerimine.</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALKION&lt;/b&gt;!</source>
-        <translation>Hoiatus:Kui sa krüpteerid oma rahakoti ja kaotad salafraasi, siis sa&lt;b&gt;KAOTAD OMA ALKIONID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SUPERALKI&lt;/b&gt;!</source>
+        <translation>Hoiatus:Kui sa krüpteerid oma rahakoti ja kaotad salafraasi, siis sa&lt;b&gt;KAOTAD OMA SUPERALKIID&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -366,12 +366,12 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Loo maksepäring (genereerib QR koodid ja alkion i: URId)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Loo maksepäring (genereerib QR koodid ja superalki i: URId)</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Ava alkion i: URI või maksepäring</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Ava superalki i: URI või maksepäring</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

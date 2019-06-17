@@ -15,9 +15,9 @@
 USER=etra
 RETVAL=0
 BITCOIND_OPTS=-daemon
-prog=alkiond
-BITCOIND_PATH=/home/etra/alkion
-BITCOIND_BIN=$BITCOIND_PATH/alkiond
+prog=superalkid
+BITCOIND_PATH=/home/etra/superalki
+BITCOIND_BIN=$BITCOIND_PATH/superalkid
 # you can override the lockfile via BITCOIND_LOCKFILE in /etc/sysconfig/bitcoind
 lockfile=${BITCOIND_LOCKFILE-/var/lock/subsys/bitcoind}
 

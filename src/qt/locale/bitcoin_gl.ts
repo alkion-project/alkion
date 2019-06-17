@@ -206,8 +206,8 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e alkion: URIs)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Solicitar pagos (xenera códigos QR e superalki: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -218,8 +218,8 @@
         <translation>Amosar a listaxe de etiquetas e direccións para recibir empregadas</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Abrir un alkion: URI ou solicitude de pago</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Abrir un superalki: URI ou solicitude de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

@@ -290,16 +290,16 @@
         <translation>Barre d'outils des onglets</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Demander des paiements (générer QR codes et alkion: URIs)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Demander des paiements (générer QR codes et superalki: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
         <translation>Montrer la liste des adresses d'envois utilisées et les étiquettes</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Ouvrir un alkion: URI ou demande de paiement</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Ouvrir un superalki: URI ou demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

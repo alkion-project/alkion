@@ -1,5 +1,5 @@
 #!/bin/sh
-coin=alkion
+coin=superalki
 version=1.0.0
 platform=`uname -a | awk '{print tolower($1)}'`
 arch=`uname -m`
@@ -16,7 +16,7 @@ else
     echo "Bitcoin binary distribution not available for platform and architecture"
     exit -1
 fi
-bitcoin_dir=alkion-${version}
+bitcoin_dir=superalki-${version}
 rm -Rf tmp/*
 rm -Rf ${tarball_name}
 

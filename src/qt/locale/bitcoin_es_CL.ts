@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Send coins to a Alkion address</source>
-        <translation>Enviar monedas a una dirección alkion</translation>
+        <translation>Enviar monedas a una dirección superalki</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -206,8 +206,8 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and alkion: URls)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Pide pagos (genera codigos QR and superalki: URls)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -773,7 +773,7 @@
     </message>
     <message>
         <source>Alkion Core</source>
-        <translation>alkion core</translation>
+        <translation>superalki core</translation>
     </message>
     <message>
         <source>Error loading block database</source>

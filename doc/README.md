@@ -5,7 +5,7 @@ Setup
 ---------------------
 Alkion Core is the original Alkion client and it builds the backbone of the network. However, it downloads and stores the entire history of Alkion transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Alkion Core, visit [alkion.org](https://alkion.org).
+To download Alkion Core, visit [superalki.org](https://superalki.org).
 
 Running
 ---------------------
@@ -15,12 +15,12 @@ The following are some helpful notes on how to run Alkion on your native platfor
 
 Unpack the files into a directory and run:
 
-- `bin/alkion-qt` (GUI) or
-- `bin/alkiond` (headless)
+- `bin/superalki-qt` (GUI) or
+- `bin/superalkid` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run alkion-qt.exe.
+Unpack the files into a directory, and then run superalki-qt.exe.
 
 ### OS X
 
@@ -28,10 +28,10 @@ Drag Alkion-Core to your applications folder, and then run Alkion-Core.
 
 ### Need Help?
 
-* See the documentation at the [Alkion Wiki](https://alkion.info/)
+* See the documentation at the [Alkion Wiki](https://superalki.info/)
 for help and more information.
-* Ask for help on [#alkion](http://webchat.freenode.net?channels=alkion) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=alkion).
-* Ask for help on the [AlkionTalk](https://alkiontalk.io/) forums.
+* Ask for help on [#superalki](http://webchat.freenode.net?channels=superalki) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=superalki).
+* Ask for help on the [AlkionTalk](https://superalkitalk.io/) forums.
 
 Building
 ---------------------
@@ -50,7 +50,7 @@ The Alkion repo's [root README](/README.md) contains relevant information on the
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/alkion/doxygen/)
+- [Source Code Documentation (External Link)](https://dev.visucore.com/superalki/doxygen/)
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
@@ -61,8 +61,8 @@ The Alkion repo's [root README](/README.md) contains relevant information on the
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [AlkionTalk](https://alkiontalk.io/) forums.
-* Discuss general Alkion development on #alkion-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=alkion-dev).
+* Discuss on the [AlkionTalk](https://superalkitalk.io/) forums.
+* Discuss general Alkion development on #superalki-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=superalki-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

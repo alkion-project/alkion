@@ -17,13 +17,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "Alkion"
-            VALUE "FileDescription",    "alkion-tx (CLI Alkion transaction editor utility)"
+            VALUE "FileDescription",    "superalki-tx (CLI Alkion transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "alkion-tx"
+            VALUE "InternalName",       "superalki-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "alkion-tx.exe"
-            VALUE "ProductName",        "alkion-tx"
+            VALUE "OriginalFilename",   "superalki-tx.exe"
+            VALUE "ProductName",        "superalki-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

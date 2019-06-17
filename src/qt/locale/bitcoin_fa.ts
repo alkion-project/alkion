@@ -374,8 +374,8 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس alkion)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس superalki)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -386,8 +386,8 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>بازکردن یک alkion: آدرس یا درخواست پرداخت</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>بازکردن یک superalki: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
