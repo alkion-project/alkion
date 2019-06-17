@@ -91,7 +91,7 @@ static CBlock CreateGenesisBlock(const char* pszTimestamp, const CScript& genesi
  */
 static CBlock CreateGenesisBlock(uint32_t nTime, uint32_t nNonce, uint32_t nBits, int32_t nVersion, const CAmount& genesisReward)
 {
-    const char* pszTimestamp = "SUPERALKI PROJECT TIME  ";
+    const char* pszTimestamp = "ALKION PROJECT TIME  ";
     const CScript genesisOutputScript = CScript() << ParseHex("040184710fa0456d3e5e98aa94380fde15ff40eec7b522344a31e860c8909160fa281db20ecfb396df02b48dedac1ed8eeea54ee8a87489c549283dc0e7f6c6865bc7d83d1bd8689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9") << OP_CHECKSIG;
     return CreateGenesisBlock(pszTimestamp, genesisOutputScript, nTime, nNonce, nBits, nVersion, genesisReward);
 }
