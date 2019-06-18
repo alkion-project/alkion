@@ -1,25 +1,25 @@
 #! /bin/sh
 ### BEGIN INIT INFO
-# Provides:		alkiond
+# Provides:		superalkid
 # Required-Start:	$syslog $remote_fs
 # Required-Stop:	$syslog $remote_fs
 # Should-Start:		$local_fs
 # Should-Stop:		$local_fs
 # Default-Start:	2 3 4 5
 # Default-Stop:		0 1 6
-# Short-Description:	alkiond
-# Description:		alkiond
+# Short-Description:	superalkid
+# Description:		superalkid
 ### END INIT INFO
 
-# sudo update-rc.d alkiond defaults
-PROG=alkiond
+# sudo update-rc.d superalkid defaults
+PROG=superalkid
 USER=user
 GROUP=user
-INSTALL_PATH=/home/user/alkion/src
+INSTALL_PATH=/home/user/superalki/src
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 DAEMON=$INSTALL_PATH/$PROG
-NAME=alkiond
-DESC=alkiond
+NAME=superalkid
+DESC=superalkid
 
 RUNDIR=/var/run/${PROG}
 PIDFILE=$RUNDIR/${PROG}.pid

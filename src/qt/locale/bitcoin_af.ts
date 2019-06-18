@@ -168,8 +168,8 @@
         <translation>Bevestig dat die beursie gekodifiseer is</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALKION&lt;/b&gt;!</source>
-        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U ALKION&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SUPERALKI&lt;/b&gt;!</source>
+        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U SUPERALKI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -398,8 +398,8 @@
         <translation>Orebalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en alkion: URI's)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Versoek betalings (genereer QR-kodes en superalki: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,8 +410,8 @@
         <translation>Vertoon die lys van gebruikte ontvangers-adresse en etikette</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Skep 'n alkion: URI of betalingsversoek</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Skep 'n superalki: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>

@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Alkion addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Jen viaj alkion j adresoj por ricevi pagojn. Estas konsilinde uzi apartan ricevan adreson por ĉiu transakcio.</translation>
+        <translation>Jen viaj superalki j adresoj por ricevi pagojn. Estas konsilinde uzi apartan ricevan adreson por ĉiu transakcio.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -290,8 +290,8 @@
         <translation>Langeto-breto</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso alkion:)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso superalki:)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -302,8 +302,8 @@
         <translation>Vidigi la liston de uzitaj ricevaj adresoj kaj etikedoj</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Malfermi alkion:-URI-on aŭ pagpeton</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Malfermi superalki:-URI-on aŭ pagpeton</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

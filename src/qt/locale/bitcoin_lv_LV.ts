@@ -218,12 +218,12 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un alkion: URIs)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un superalki: URIs)</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Atvērt alkion URI vai maksājuma pieprasījumu</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Atvērt superalki URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -499,7 +499,7 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt alkion &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt superalki &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>

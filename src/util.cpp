@@ -103,8 +103,8 @@ namespace boost {
 
 using namespace std;
 
-const char * const BITCOIN_CONF_FILENAME = "alkion.conf";
-const char * const BITCOIN_PID_FILENAME = "alkion.pid";
+const char * const BITCOIN_CONF_FILENAME = "superalki.conf";
+const char * const BITCOIN_PID_FILENAME = "superalki.pid";
 
 CCriticalSection cs_args;
 map<string, string> mapArgs;
@@ -462,7 +462,7 @@ static std::string FormatException(const std::exception* pex, const char* pszThr
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "alkion";
+    const char* pszModule = "superalki";
 #endif
     if (pex)
         return strprintf(
@@ -501,7 +501,7 @@ boost::filesystem::path GetDefaultDataDir()
     return pathRet / "Library/Application Support/AlkionQT";
 #else
     // Unix
-    return pathRet / ".alkion";
+    return pathRet / ".superalki";
 #endif
 #endif
 }

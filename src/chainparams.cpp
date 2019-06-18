@@ -171,8 +171,8 @@ public:
         // Note that of those with the service bits flag, most only support a subset of possible options
         
         vSeeds.push_back(CDNSSeedData("seed0", "seed-alk.bitchk.com",false));
-        vSeeds.push_back(CDNSSeedData("seed2", "dnsseed.alkion.io",false));
-        // vSeeds.emplace_back("dnsseed.alkion.org"); 
+        vSeeds.push_back(CDNSSeedData("seed2", "dnsseed.superalki.io",false));
+        // vSeeds.emplace_back("dnsseed.superalki.org"); 
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,45);//K
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,48);//L
@@ -191,7 +191,8 @@ public:
 
         checkpointData = {
             {
-               { 0, uint256S("0x00000")} 
+               { 0, uint256S("0x000003a64c2aa6de190b81ff6cf62c92163493584a6e58e391b2912a8a99c319")} ,
+               { 15500, uint256S("0x00000211482712f77c5758c116bb6367ca2f5e88786bc460c2fadad2ff2f6c2d")} ,
             }
         };
 

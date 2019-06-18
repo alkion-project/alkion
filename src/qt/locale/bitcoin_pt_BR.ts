@@ -168,8 +168,8 @@
         <translation>Confirmar criptografia da carteira</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALKION&lt;/b&gt;!</source>
-        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;PERDER TODOS OS SEUS ALKION&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SUPERALKI&lt;/b&gt;!</source>
+        <translation>Aviso: Se você criptografar sua carteira e perder sua senha, você vai &lt;b&gt;PERDER TODOS OS SEUS SUPERALKI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Send coins to a Alkion address</source>
-        <translation>Enviar moedas para um endereço alkion</translation>
+        <translation>Enviar moedas para um endereço superalki</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -410,8 +410,8 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Solicitações de pagamentos (gera códigos QR e alkion: URIs)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Solicitações de pagamentos (gera códigos QR e superalki: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Mostrar a lista de endereços de recebimento usados ​​e rótulos</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Abrir um alkion: URI ou cobrança</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Abrir um superalki: URI ou cobrança</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -882,11 +882,11 @@
         <translation>Formulário</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the alkion network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the superalki network, as detailed below.</source>
         <translation>Transações recentes podem não estar visíveis ainda, portanto o seu saldo pode estar incorreto. Esta informação será corrigida assim que sua carteira for sincronizada com a rede, como detalhado abaixo.</translation>
     </message>
     <message>
-        <source>Attempting to spend alkion that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend superalki that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation>Gastar moedas de transações desconhecidas podem não ser aceitas pela rede.</translation>
     </message>
     <message>
@@ -1141,7 +1141,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar alkion.</translation>
+        <translation>Escolha a unidade padrão de subdivisão para interface mostrar quando enviar superalki.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1266,8 +1266,8 @@
         <translation>Erro no pedido de pagamento</translation>
     </message>
     <message>
-        <source>Cannot start alkion: click-to-pay handler</source>
-        <translation>Não foi possível iniciar alkion: manipulador click-to-pay</translation>
+        <source>Cannot start superalki: click-to-pay handler</source>
+        <translation>Não foi possível iniciar superalki: manipulador click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -2033,7 +2033,7 @@
         <translation>pelo menos</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for alkion transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for superalki transactions than the network can process.</source>
         <translation>Pagando apenas a taxa mínima é bom, desde que haja pouco volume de transações. Mas esteja ciente de que isso pode acabar em uma transação nunca confirmanda uma vez que há mais demanda por transações do que a rede pode processar.</translation>
     </message>
     <message>
@@ -2260,8 +2260,8 @@
         <translation>Remover esta entrada</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less alkion than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>A taxa será deduzida da quantia que está sendo enviada. O destinatário receberá menos alkion do que você colocou no campo de quantidade. Se vários destinatários estão selecionados, a taxa é dividida igualmente.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less superalki than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>A taxa será deduzida da quantia que está sendo enviada. O destinatário receberá menos superalki do que você colocou no campo de quantidade. Se vários destinatários estão selecionados, a taxa é dividida igualmente.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2284,8 +2284,8 @@
         <translation>Digite um rótulo para este endereço para adicioná-lo no catálogo</translation>
     </message>
     <message>
-        <source>A message that was attached to the alkion: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
-        <translation>A mensagem que foi anexada ao alkion: URI na qual será gravada na transação para sua referência. Nota: Essa mensagem não será gravada publicamente na rede Alkion.</translation>
+        <source>A message that was attached to the superalki: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
+        <translation>A mensagem que foi anexada ao superalki: URI na qual será gravada na transação para sua referência. Nota: Essa mensagem não será gravada publicamente na rede Alkion.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2329,8 +2329,8 @@
         <translation>&amp;Assinar mensagem</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive alkion sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Você pode assinar mensagens com seus endereços para provar que você pode receber alkion enviados por alguém. Cuidado para não assinar nada vago ou aleatório, pois ataques phishing podem tentar te enganar para assinar coisas para eles como se fosse você. Somente assine termos bem detalhados que você concorde.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive superalki sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Você pode assinar mensagens com seus endereços para provar que você pode receber superalki enviados por alguém. Cuidado para não assinar nada vago ou aleatório, pois ataques phishing podem tentar te enganar para assinar coisas para eles como se fosse você. Somente assine termos bem detalhados que você concorde.</translation>
     </message>
     <message>
         <source>The Alkion address to sign the message with</source>

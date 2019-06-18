@@ -168,7 +168,7 @@
         <translation>Пацвердзіце шыфраванне гаманца</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALKION&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SUPERALKI&lt;/b&gt;!</source>
         <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ БІТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -370,8 +370,8 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Запатрабаваць плацёж (генеруецца QR-код для alkion URI)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Запатрабаваць плацёж (генеруецца QR-код для superalki URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -382,8 +382,8 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Адкрыць alkion: URI ці запыт плацяжу</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Адкрыць superalki: URI ці запыт плацяжу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

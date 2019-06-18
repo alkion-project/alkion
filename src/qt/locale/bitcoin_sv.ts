@@ -169,8 +169,8 @@ Var vänlig och försök igen.</translation>
         <translation>Bekräfta kryptering av plånbok</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ALKION&lt;/b&gt;!</source>
-        <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA ALKION&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SUPERALKI&lt;/b&gt;!</source>
+        <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA SUPERALKI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -181,7 +181,7 @@ Var vänlig och försök igen.</translation>
         <translation>Plånbok krypterad</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your alkion from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your superalki from being stolen by malware infecting your computer.</source>
         <translation>%1 kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -340,7 +340,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Send coins to a Alkion address</source>
-        <translation>Skicka alkion till en Alkion-adress</translation>
+        <translation>Skicka superalki till en Alkion-adress</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -415,8 +415,8 @@ Var vänlig och försök igen.</translation>
         <translation>Verktygsfält för tabbar</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Begär betalning (genererar QR-koder och alkion-URI)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Begär betalning (genererar QR-koder och superalki-URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -427,8 +427,8 @@ Var vänlig och försök igen.</translation>
         <translation>Visa listan av använda mottagningsadresser och etiketter</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Öppna en alkion: URI eller betalningsbegäran</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Öppna en superalki: URI eller betalningsbegäran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1774,8 +1774,8 @@ Var vänlig och försök igen.</translation>
         <translation>totalt minst</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for alkion transactions than the network can process.</source>
-        <translation>Att betala endast den minsta avgiften är bara bra så länge det är mindre transaktionsvolym än utrymme i blocken. Men tänk på att det kan hamna i en aldrig bekräftar transaktion när det finns mer efterfrågan på alkion transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for superalki transactions than the network can process.</source>
+        <translation>Att betala endast den minsta avgiften är bara bra så länge det är mindre transaktionsvolym än utrymme i blocken. Men tänk på att det kan hamna i en aldrig bekräftar transaktion när det finns mer efterfrågan på superalki transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -1897,8 +1897,8 @@ Var vänlig och försök igen.</translation>
         <translation>Radera denna post</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less alkion than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Avgiften dras från beloppet som skickas. Mottagaren kommer att få mindre alkion än du angivit i belopp-fältet. Om flera mottagare valts kommer avgiften delas jämt.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less superalki than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Avgiften dras från beloppet som skickas. Mottagaren kommer att få mindre superalki än du angivit i belopp-fältet. Om flera mottagare valts kommer avgiften delas jämt.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -1921,8 +1921,8 @@ Var vänlig och försök igen.</translation>
         <translation>Ange en etikett för denna adress att adderas till listan över använda adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the alkion: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
-        <translation>Ett meddelande som bifogades alkion-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Alkionnätverket.</translation>
+        <source>A message that was attached to the superalki: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
+        <translation>Ett meddelande som bifogades superalki-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Alkionnätverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1962,8 +1962,8 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Signera Meddelande</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive alkion sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underteckna meddelanden/avtal med dina adresser för att bevisa att du kan ta emot alkion som skickats till dem. Var försiktig så du inte undertecknar något oklart eller konstigt, eftersom phishing-angrepp kan försöka få dig att underteckna din identitet till dem. Underteckna endast väldetaljerade meddelanden som du godkänner.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive superalki sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Du kan underteckna meddelanden/avtal med dina adresser för att bevisa att du kan ta emot superalki som skickats till dem. Var försiktig så du inte undertecknar något oklart eller konstigt, eftersom phishing-angrepp kan försöka få dig att underteckna din identitet till dem. Underteckna endast väldetaljerade meddelanden som du godkänner.</translation>
     </message>
     <message>
         <source>The Alkion address to sign the message with</source>
@@ -2940,7 +2940,7 @@ Var vänlig och försök igen.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med alkion</translation>
+        <translation>Otillräckligt med superalki</translation>
     </message>
     <message>
         <source>Loading block index...</source>

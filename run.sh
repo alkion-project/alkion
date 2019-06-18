@@ -1,5 +1,5 @@
 #!/bin/sh
-coin=alkion
+coin=superalki
 version=1.0.0
 platform=`uname -a | awk '{print tolower($1)}'`
 
@@ -25,5 +25,5 @@ else
     ext='.exe'
 fi
 
-src/qt/alkion-qt${ext} -datadir=./data  ${printc} ${options}
+src/qt/superalki-qt${ext} -datadir=./data  ${printc} ${options}
 

@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Send coins to a Alkion address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση alkion</translation>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση superalki</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -286,8 +286,8 @@
         <translation>Εργαλειοθήκη καρτελών</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις alkion: )</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις superalki: )</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -298,8 +298,8 @@
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
-        <translation>Άνοιγμα alkion: URI αίτησης πληρωμής</translation>
+        <source>Open a superalki: URI or payment request</source>
+        <translation>Άνοιγμα superalki: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>

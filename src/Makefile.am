@@ -66,11 +66,11 @@ TESTS =
 BENCHMARKS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += alkiond
+  bin_PROGRAMS += superalkid
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += alkion-cli alkion-tx
+  bin_PROGRAMS += superalki-cli superalki-tx
 endif
 
 .PHONY: FORCE check-symbols check-security
@@ -382,16 +382,16 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-alkiond_SOURCES = bitcoind.cpp
-alkiond_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-alkiond_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-alkiond_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+superalkid_SOURCES = bitcoind.cpp
+superalkid_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+superalkid_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+superalkid_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-alkiond_SOURCES += bitcoind-res.rc
+superalkid_SOURCES += bitcoind-res.rc
 endif
 
-alkiond_LDADD = \
+superalkid_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBUNIVALUE) \
@@ -404,38 +404,38 @@ alkiond_LDADD = \
   $(LIBMEMENV) \
   $(LIBSECP256K1)
 
-alkiond_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
+superalkid_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
 
 # bitcoin-cli binary #
-alkion_cli_SOURCES = bitcoin-cli.cpp
-alkion_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
-alkion_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-alkion_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+superalki_cli_SOURCES = bitcoin-cli.cpp
+superalki_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
+superalki_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+superalki_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-alkion_cli_SOURCES += bitcoin-cli-res.rc
+superalki_cli_SOURCES += bitcoin-cli-res.rc
 endif
 
-alkion_cli_LDADD = \
+superalki_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_UTIL) \
   $(LIBBITCOIN_CRYPTO)
 
-alkion_cli_LDADD += $(BOOST_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
+superalki_cli_LDADD += $(BOOST_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
 #
 
 # bitcoin-tx binary #
-alkion_tx_SOURCES = bitcoin-tx.cpp
-alkion_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-alkion_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-alkion_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+superalki_tx_SOURCES = bitcoin-tx.cpp
+superalki_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+superalki_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+superalki_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-alkion_tx_SOURCES += bitcoin-tx-res.rc
+superalki_tx_SOURCES += bitcoin-tx-res.rc
 endif
 
-alkion_tx_LDADD = \
+superalki_tx_LDADD = \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -443,7 +443,7 @@ alkion_tx_LDADD = \
   $(LIBBITCOIN_CRYPTO) \
   $(LIBSECP256K1)
 
-alkion_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
+superalki_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
 #
 
 # bitcoinconsensus library #

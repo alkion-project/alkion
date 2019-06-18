@@ -2,6 +2,7 @@
 *.tar.gz
 
 *.exe
+*alkion*
 src/alkion
 src/alkiond
 src/alkion-cli
@@ -9,6 +10,13 @@ src/alkion-tx
 src/test/test_alkion
 src/test/test_alkion_fuzzy
 src/qt/test/test_alkion-qt
+src/superalki
+src/superalkid
+src/superalki-cli
+src/superalki-tx
+src/test/test_superalki
+src/test/test_superalki_fuzzy
+src/qt/test/test_superalki-qt
 
 # autoreconf
 Makefile.in
@@ -81,13 +89,13 @@ src/qt/bitcoin-qt.includes
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-alkion-qt
-alkion-Qt.app
+superalki-qt
+superalki-Qt.app
 background.tiff*
 
 # Unit-tests
 Makefile.test
-alkion-qt_test
+superalki-qt_test
 
 # Resources cpp
 qrc_*.cpp
@@ -99,7 +107,7 @@ build
 *.gcno
 *.gcda
 /*.info
-test_alkion.coverage/
+test_superalki.coverage/
 total.coverage/
 coverage_percent.txt
 

@@ -294,8 +294,8 @@
         <translation>סרגל כלים לשוניות</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and alkion: URIs)</source>
-        <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :alkion)</translation>
+        <source>Request payments (generates QR codes and superalki: URIs)</source>
+        <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :superalki)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -306,7 +306,7 @@
         <translation>הצגת רשימת הכתובות והתוויות הנמצאות בשימוש</translation>
     </message>
     <message>
-        <source>Open a alkion: URI or payment request</source>
+        <source>Open a superalki: URI or payment request</source>
         <translation>פתיחת לייטקוין: כתובת משאב או בקשת תשלום</translation>
     </message>
     <message>
@@ -1450,7 +1450,7 @@
         <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the alkion: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
+        <source>A message that was attached to the superalki: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
         <translation>הודעה שצורפה ללייטקוין: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת לייטקוין.</translation>
     </message>
     <message>

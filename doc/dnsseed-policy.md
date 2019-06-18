@@ -44,11 +44,11 @@ related to the DNS seed operation.
 If these expectations cannot be satisfied the operator should
 discontinue providing services and contact the active Alkion
 Core development team as well as posting on
-[alkion-dev](https://groups.google.com/forum/#!forum/alkion-dev).
+[superalki-dev](https://groups.google.com/forum/#!forum/superalki-dev).
 
 Behavior outside of these expectations may be reasonable in some
 situations but should be discussed in public in advance.
 
 See also
 ----------
-- [alkion-seeder](https://github.com/pooler/alkion-seeder) is a reference implementation of a DNS seed.
+- [superalki-seeder](https://github.com/pooler/superalki-seeder) is a reference implementation of a DNS seed.

@@ -4,15 +4,15 @@ TOPDIR=${TOPDIR:-$(git rev-parse --show-toplevel)}
 SRCDIR=${SRCDIR:-$TOPDIR/src}
 MANDIR=${MANDIR:-$TOPDIR/doc/man}
 
-BITCOIND=${BITCOIND:-$SRCDIR/alkiond}
-BITCOINCLI=${BITCOINCLI:-$SRCDIR/alkion-cli}
-BITCOINTX=${BITCOINTX:-$SRCDIR/alkion-tx}
-BITCOINQT=${BITCOINQT:-$SRCDIR/qt/alkion-qt}
+BITCOIND=${BITCOIND:-$SRCDIR/superalkid}
+BITCOINCLI=${BITCOINCLI:-$SRCDIR/superalki-cli}
+BITCOINTX=${BITCOINTX:-$SRCDIR/superalki-tx}
+BITCOINQT=${BITCOINQT:-$SRCDIR/qt/superalki-qt}
 
-[ ! -x $BITCOIND ] && echo "$ALKIOND not found or not executable." && exit 1
+[ ! -x $BITCOIND ] && echo "$SUPERALKID not found or not executable." && exit 1
 
 # The autodetected version git tag can screw up manpage output a little bit
-BTCVER=($($ALKIONCLI --version | head -n1 | awk -F'[ -]' '{ print $6, $7 }'))
+BTCVER=($($SUPERALKICLI --version | head -n1 | awk -F'[ -]' '{ print $6, $7 }'))
 
 # Create a footer file with copyright content.
 # This gets autodetected fine for bitcoind if --version-string is not set,

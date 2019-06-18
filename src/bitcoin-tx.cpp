@@ -54,10 +54,10 @@ static int AppInitRawTx(int argc, char* argv[])
     if (argc<2 || IsArgSet("-?") || IsArgSet("-h") || IsArgSet("-help"))
     {
         // First part of help message is specific to this utility
-        std::string strUsage = strprintf(_("%s alkion-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = strprintf(_("%s superalki-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
             _("Usage:") + "\n" +
-              "  alkion-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded alkion transaction") + "\n" +
-              "  alkion-tx [options] -create [commands]   " + _("Create hex-encoded alkion transaction") + "\n" +
+              "  superalki-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded superalki transaction") + "\n" +
+              "  superalki-tx [options] -create [commands]   " + _("Create hex-encoded superalki transaction") + "\n" +
               "\n";
 
         fprintf(stdout, "%s", strUsage.c_str());

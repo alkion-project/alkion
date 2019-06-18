@@ -62,7 +62,7 @@ TestingSetup::TestingSetup(const std::string& chainName) : BasicTestingSetup(cha
 
         RegisterAllCoreRPCCommands(tableRPC);
         ClearDatadirCache();
-        pathTemp = GetTempPath() / strprintf("test_alkion_%lu_%i", (unsigned long)GetTime(), (int)(GetRand(100000)));
+        pathTemp = GetTempPath() / strprintf("test_superalki_%lu_%i", (unsigned long)GetTime(), (int)(GetRand(100000)));
         boost::filesystem::create_directories(pathTemp);
         ForceSetArg("-datadir", pathTemp.string());
         mempool.setSanityCheck(1.0);
