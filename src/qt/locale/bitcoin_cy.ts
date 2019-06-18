@@ -114,8 +114,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -484,8 +484,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Alkion Core</source>
-        <translation>Craidd Alkion</translation>
+        <source>SuperAlki Core</source>
+        <translation>Craidd SuperAlki</translation>
     </message>
     <message>
         <source>Information</source>

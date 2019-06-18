@@ -214,8 +214,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>

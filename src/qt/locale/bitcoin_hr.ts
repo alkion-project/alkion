@@ -54,8 +54,8 @@
         <translation>&amp;Odaberi</translation>
     </message>
     <message>
-        <source>These are your Alkion addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su vaše Alkion adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your SuperAlki addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su vaše SuperAlki adrese za slanje novca. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -174,7 +174,7 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Alkion address</source>
+        <source>Send coins to a SuperAlki address</source>
         <translation>Slanje novca na superalki adresu</translation>
     </message>
     <message>
@@ -198,8 +198,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -226,11 +226,11 @@
         <translation>Šifriranje privatnih ključeva koji u novčaniku</translation>
     </message>
     <message>
-        <source>Sign messages with your Alkion addresses to prove you own them</source>
+        <source>Sign messages with your SuperAlki addresses to prove you own them</source>
         <translation>Poruku potpišemo s superalki adresom, kako bi dokazali vlasništvo nad tom adresom</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alkion addresses</source>
+        <source>Verify messages to ensure they were signed with specified SuperAlki addresses</source>
         <translation>Provjeravanje poruke, kao dokaz, da je potpisana navedenom superalki adresom</translation>
     </message>
     <message>
@@ -270,8 +270,8 @@
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alkion network</source>
-        <translation><numerusform>%n aktivna veza na Alkion mrežu</numerusform><numerusform>%n aktivnih veza na Alkion mrežu</numerusform><numerusform>%n aktivnih veza na Alkion mrežu</numerusform></translation>
+        <source>%n active connection(s) to SuperAlki network</source>
+        <translation><numerusform>%n aktivna veza na SuperAlki mrežu</numerusform><numerusform>%n aktivnih veza na SuperAlki mrežu</numerusform><numerusform>%n aktivnih veza na SuperAlki mrežu</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>Processed %n block(s) of transaction history.</source>
@@ -427,7 +427,7 @@
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>Alkion adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
+        <translation>SuperAlki adresa. Izmjene adrese su moguće samo za adrese za slanje.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -568,8 +568,8 @@
         <translation>&amp;Trošenje nepotvrđenih vraćenih iznosa</translation>
     </message>
     <message>
-        <source>Automatically open the Alkion client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Alkion klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the SuperAlki client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port SuperAlki klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -643,8 +643,8 @@
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alkion network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Alkion mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SuperAlki network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s SuperAlki mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Total:</source>
@@ -1034,8 +1034,8 @@
         <translation>Izvršavaj u pozadini kao uslužnik i prihvaćaj komande</translation>
     </message>
     <message>
-        <source>Alkion Core</source>
-        <translation>Alkion Core</translation>
+        <source>SuperAlki Core</source>
+        <translation>SuperAlki Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>

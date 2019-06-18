@@ -12,9 +12,9 @@ For example:
 
     make HOST=x86_64-w64-mingw32 -j4
 
-A prefix will be generated that's suitable for plugging into Alkion's
+A prefix will be generated that's suitable for plugging into SuperAlki's
 configure. In the above example, a dir named x86_64-w64-mingw32 will be
-created. To use it for Alkion:
+created. To use it for SuperAlki:
 
     ./configure --prefix=`pwd`/depends/x86_64-w64-mingw32
 

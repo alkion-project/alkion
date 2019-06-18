@@ -793,7 +793,7 @@ void InitLogging()
     fLogIPs = GetBoolArg("-logips", DEFAULT_LOGIPS);
 
     LogPrintf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-    LogPrintf("Alkion version %s\n", FormatFullVersion());
+    LogPrintf("SuperAlki version %s\n", FormatFullVersion());
 }
 
 namespace { // Variables internal to initialization process only

@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Alkion"
-            VALUE "FileDescription",    "superalki-tx (CLI Alkion transaction editor utility)"
+            VALUE "CompanyName",        "SuperAlki"
+            VALUE "FileDescription",    "superalki-tx (CLI SuperAlki transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "superalki-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

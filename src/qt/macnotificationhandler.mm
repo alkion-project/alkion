@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"com.superalki.Alkion-Qt";
+        return @"com.superalki.SuperAlki-Qt";
     } else {
         return [self __bundleIdentifier];
     }

@@ -62,12 +62,12 @@
         <translation>Vastuvõtvad aadressid</translation>
     </message>
     <message>
-        <source>These are your Alkion addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Alkion aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
+        <source>These are your SuperAlki addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu SuperAlki aadressid maksete saatmiseks. Ennem müntide saatmist kontrolli alati summat ja makse saaja aadressi.</translation>
     </message>
     <message>
-        <source>These are your Alkion addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Need on sinu Alkion aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
+        <source>These are your SuperAlki addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Need on sinu SuperAlki aadressid sisenevate maksete vastu võtmiseks. Soovitav on iga tehingu tarbeks kasutada uut aadressi.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -290,8 +290,8 @@
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Alkion address</source>
-        <translation>Saada münte Alkioni aadressile</translation>
+        <source>Send coins to a SuperAlki address</source>
+        <translation>Saada münte SuperAlkii aadressile</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -314,8 +314,8 @@
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -342,12 +342,12 @@
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Alkion addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Alkioni aadressiga</translation>
+        <source>Sign messages with your SuperAlki addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma SuperAlkii aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Alkion addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Alkioni aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified SuperAlki addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud SuperAlkii aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -378,8 +378,8 @@
         <translation>Käsurea valikud</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alkion network</source>
-        <translation><numerusform>%n aktiivne ühendus Alkioni võrku</numerusform><numerusform>%n aktiivset ühendust Alkioni võrku</numerusform></translation>
+        <source>%n active connection(s) to SuperAlki network</source>
+        <translation><numerusform>%n aktiivne ühendus SuperAlkii võrku</numerusform><numerusform>%n aktiivset ühendust SuperAlkii võrku</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -626,8 +626,8 @@
         <translation>Muuda saatvat aadressi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Alkion address.</source>
-        <translation>Sisestatud aadress "%1" ei ole korrektne Alkion aadress.</translation>
+        <source>The entered address "%1" is not a valid SuperAlki address.</source>
+        <translation>Sisestatud aadress "%1" ei ole korrektne SuperAlki aadress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -756,8 +756,8 @@
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically open the Alkion client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Alkioni kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the SuperAlki client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>SuperAlkii kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -855,7 +855,7 @@
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alkion network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SuperAlki network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Liteconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1337,8 +1337,8 @@
         <translation>Maksepäring aegunud.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Alkion address</source>
-        <translation>Hoiatus: Ebakorrektne Alkion aadress</translation>
+        <source>Warning: Invalid SuperAlki address</source>
+        <translation>Hoiatus: Ebakorrektne SuperAlki aadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1417,8 +1417,8 @@
         <translation>&amp;Allkirjastamise teade</translation>
     </message>
     <message>
-        <source>The Alkion address to sign the message with</source>
-        <translation>Alkion aadress millega sõnum allkirjastada</translation>
+        <source>The SuperAlki address to sign the message with</source>
+        <translation>SuperAlki aadress millega sõnum allkirjastada</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1449,8 +1449,8 @@
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Alkion address</source>
-        <translation>Allkirjasta sõnum Alkioni aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this SuperAlki address</source>
+        <translation>Allkirjasta sõnum SuperAlkii aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1469,12 +1469,12 @@
         <translation>&amp;Kinnita Sõnum</translation>
     </message>
     <message>
-        <source>The Alkion address the message was signed with</source>
-        <translation>Alkion aadress millega sõnum on allkirjastatud</translation>
+        <source>The SuperAlki address the message was signed with</source>
+        <translation>SuperAlki aadress millega sõnum on allkirjastatud</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Alkion address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Alkioni aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified SuperAlki address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud SuperAlkii aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1758,8 +1758,8 @@
         <translation>Tööta taustal ning aktsepteeri käsklusi</translation>
     </message>
     <message>
-        <source>Alkion Core</source>
-        <translation>Alkioni tuumik</translation>
+        <source>SuperAlki Core</source>
+        <translation>SuperAlkii tuumik</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

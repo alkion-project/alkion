@@ -1466,7 +1466,7 @@ void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "Alkion " + FormatFullVersion();
+        std::string strDesc = "SuperAlki " + FormatFullVersion();
 
         try {
             while (true) {

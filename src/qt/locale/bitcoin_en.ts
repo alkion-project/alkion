@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Alkion addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your SuperAlki addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Alkion addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your SuperAlki addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -430,8 +430,8 @@
     </message>
     <message>
         <location line="-510"/>
-        <source>Send coins to a Alkion address</source>
-        <translation>Send coins to a Alkion address</translation>
+        <source>Send coins to a SuperAlki address</source>
+        <translation>Send coins to a SuperAlki address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -460,8 +460,8 @@
     </message>
     <message>
         <location line="+516"/>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <location line="-741"/>
@@ -495,13 +495,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Alkion addresses to prove you own them</source>
-        <translation>Sign messages with your Alkion addresses to prove you own them</translation>
+        <source>Sign messages with your SuperAlki addresses to prove you own them</source>
+        <translation>Sign messages with your SuperAlki addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Alkion addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Alkion addresses</translation>
+        <source>Verify messages to ensure they were signed with specified SuperAlki addresses</source>
+        <translation>Verify messages to ensure they were signed with specified SuperAlki addresses</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -550,10 +550,10 @@
     </message>
     <message numerus="yes">
         <location line="+356"/>
-        <source>%n active connection(s) to Alkion network</source>
+        <source>%n active connection(s) to SuperAlki network</source>
         <translation>
-            <numerusform>%n active connection to Alkion network</numerusform>
-            <numerusform>%n active connections to Alkion network</numerusform>
+            <numerusform>%n active connection to SuperAlki network</numerusform>
+            <numerusform>%n active connections to SuperAlki network</numerusform>
         </translation>
     </message>
     <message>
@@ -611,7 +611,7 @@
     </message>
     <message>
         <location line="-440"/>
-        <source>Show the %1 help message to get a list with possible Alkion command-line options</source>
+        <source>Show the %1 help message to get a list with possible SuperAlki command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -691,7 +691,7 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+518"/>
-        <source>A fatal error occurred. Alkion can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. SuperAlki can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -934,7 +934,7 @@
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid Alkion address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid SuperAlki address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@
     </message>
     <message>
         <location line="+10"/>
-        <source>%1 will download and store a copy of the Alkion block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>%1 will download and store a copy of the SuperAlki block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1324,8 +1324,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Alkion client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Alkion client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the SuperAlki client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the SuperAlki client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1334,7 +1334,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Connect to the Alkion network through a SOCKS5 proxy.</source>
+        <source>Connect to the SuperAlki network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1389,7 +1389,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Alkion network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the SuperAlki network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1514,8 +1514,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Alkion network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Alkion network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SuperAlki network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the SuperAlki network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1634,7 +1634,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Alkion address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid SuperAlki address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1756,7 +1756,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+136"/>
-        <source>Enter a Alkion address (e.g. %1)</source>
+        <source>Enter a SuperAlki address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2342,7 +2342,7 @@
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Alkion network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the SuperAlki network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2850,7 +2850,7 @@
     </message>
     <message>
         <location line="+102"/>
-        <source>Warning: Invalid Alkion address</source>
+        <source>Warning: Invalid SuperAlki address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2905,7 +2905,7 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>The Alkion address to send the payment to</source>
+        <source>The SuperAlki address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2962,7 +2962,7 @@
     </message>
     <message>
         <location line="+47"/>
-        <source>A message that was attached to the superalki: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Alkion network.</source>
+        <source>A message that was attached to the superalki: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the SuperAlki network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3024,7 +3024,7 @@
     </message>
     <message>
         <location line="+18"/>
-        <source>The Alkion address to sign the message with</source>
+        <source>The SuperAlki address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3066,8 +3066,8 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Alkion address</source>
-        <translation>Sign the message to prove you own this Alkion address</translation>
+        <source>Sign the message to prove you own this SuperAlki address</source>
+        <translation>Sign the message to prove you own this SuperAlki address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3097,13 +3097,13 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>The Alkion address the message was signed with</source>
+        <source>The SuperAlki address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Alkion address</source>
-        <translation>Verify the message to ensure it was signed with the specified Alkion address</translation>
+        <source>Verify the message to ensure it was signed with the specified SuperAlki address</source>
+        <translation>Verify the message to ensure it was signed with the specified SuperAlki address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3953,8 +3953,8 @@
     </message>
     <message>
         <location line="-360"/>
-        <source>Alkion Core</source>
-        <translation type="unfinished">Alkion Core</translation>
+        <source>SuperAlki Core</source>
+        <translation type="unfinished">SuperAlki Core</translation>
     </message>
     <message>
         <location line="+1"/>
