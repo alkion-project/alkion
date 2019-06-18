@@ -90,8 +90,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -708,8 +708,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Alkion Core</source>
-        <translation>Alkion மையம்</translation>
+        <source>SuperAlki Core</source>
+        <translation>SuperAlki மையம்</translation>
     </message>
     <message>
         <source>(default: %u)</source>

@@ -1,15 +1,15 @@
-Alkion Core 0.14.2
+SuperAlki Core 0.14.2
 =====================
 
 Setup
 ---------------------
-Alkion Core is the original Alkion client and it builds the backbone of the network. However, it downloads and stores the entire history of Alkion transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+SuperAlki Core is the original SuperAlki client and it builds the backbone of the network. However, it downloads and stores the entire history of SuperAlki transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Alkion Core, visit [superalki.org](https://superalki.org).
+To download SuperAlki Core, visit [superalki.org](https://superalki.org).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Alkion on your native platform.
+The following are some helpful notes on how to run SuperAlki on your native platform.
 
 ### Unix
 
@@ -24,18 +24,18 @@ Unpack the files into a directory, and then run superalki-qt.exe.
 
 ### OS X
 
-Drag Alkion-Core to your applications folder, and then run Alkion-Core.
+Drag SuperAlki-Core to your applications folder, and then run SuperAlki-Core.
 
 ### Need Help?
 
-* See the documentation at the [Alkion Wiki](https://superalki.info/)
+* See the documentation at the [SuperAlki Wiki](https://superalki.info/)
 for help and more information.
 * Ask for help on [#superalki](http://webchat.freenode.net?channels=superalki) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=superalki).
-* Ask for help on the [AlkionTalk](https://superalkitalk.io/) forums.
+* Ask for help on the [SuperAlkiTalk](https://superalkitalk.io/) forums.
 
 Building
 ---------------------
-The following are developer notes on how to build Alkion on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build SuperAlki on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -45,7 +45,7 @@ The following are developer notes on how to build Alkion on your native platform
 
 Development
 ---------------------
-The Alkion repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The SuperAlki repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
@@ -61,8 +61,8 @@ The Alkion repo's [root README](/README.md) contains relevant information on the
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [AlkionTalk](https://superalkitalk.io/) forums.
-* Discuss general Alkion development on #superalki-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=superalki-dev).
+* Discuss on the [SuperAlkiTalk](https://superalkitalk.io/) forums.
+* Discuss general SuperAlki development on #superalki-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=superalki-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

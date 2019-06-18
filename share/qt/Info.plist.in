@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Alkion-Qt</string>
+  <string>SuperAlki-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Alkion-Qt</string>
+  <string>SuperAlki-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>com.superalki.Alkion-Qt</string>
+  <string>com.superalki.SuperAlki-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>com.superalki.AlkionPayment</string>
+      <string>com.superalki.SuperAlkiPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>superalki</string>
@@ -60,7 +60,7 @@
       <key>UTTypeIdentifier</key>
       <string>com.superalki.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Alkion payment request</string>
+      <string>SuperAlki payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

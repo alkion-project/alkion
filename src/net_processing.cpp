@@ -33,7 +33,7 @@
 #include <boost/thread.hpp>
 
 #if defined(NDEBUG)
-# error "Alkion cannot be compiled without assertions."
+# error "SuperAlki cannot be compiled without assertions."
 #endif
 
 std::atomic<int64_t> nTimeBestReceived(0); // Used only to inform the wallet of when we last received a block

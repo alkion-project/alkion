@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Alkion</source>
+        <source>SuperAlki</source>
         <translation>Биткоин</translation>
     </message>
     <message>

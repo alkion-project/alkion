@@ -130,7 +130,7 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Alkion address</source>
+        <source>Send coins to a SuperAlki address</source>
         <translation>Пошаљите новац на superalki адресу</translation>
     </message>
     <message>

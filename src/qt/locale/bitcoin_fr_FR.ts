@@ -218,8 +218,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Alkion address</source>
-        <translation>Envoyer des pièces à une adresse Alkion</translation>
+        <source>Send coins to a SuperAlki address</source>
+        <translation>Envoyer des pièces à une adresse SuperAlki</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -242,8 +242,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Alkion</source>
-        <translation>Alkion</translation>
+        <source>SuperAlki</source>
+        <translation>SuperAlki</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -270,8 +270,8 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Alkion addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Alkion pour prouver que vous les détenez</translation>
+        <source>Sign messages with your SuperAlki addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses SuperAlki pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -306,8 +306,8 @@
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Alkion network</source>
-        <translation><numerusform>%n connexion active au réseau Alkion</numerusform><numerusform>%n connexions actives au réseau Alkion</numerusform></translation>
+        <source>%n active connection(s) to SuperAlki network</source>
+        <translation><numerusform>%n connexion active au réseau SuperAlki</numerusform><numerusform>%n connexions actives au réseau SuperAlki</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -684,8 +684,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Alkion client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Alkion automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the SuperAlki client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client SuperAlki automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -844,8 +844,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Alkion address (e.g. %1)</source>
-        <translation>Entrer une adresse Alkion (e.g. %1)</translation>
+        <source>Enter a SuperAlki address (e.g. %1)</source>
+        <translation>Entrer une adresse SuperAlki (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1662,8 +1662,8 @@
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Alkion Core</source>
-        <translation>Alkion Core</translation>
+        <source>SuperAlki Core</source>
+        <translation>SuperAlki Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

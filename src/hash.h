@@ -221,7 +221,7 @@ public:
 uint64_t SipHashUint256(uint64_t k0, uint64_t k1, const uint256& val);
 
 
-/* ----------- Alkion Hash ------------------------------------------------ */
+/* ----------- SuperAlki Hash ------------------------------------------------ */
 template<typename T1>
 inline uint256 HashX11(const T1 pbegin, const T1 pend)
 
